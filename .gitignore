@@ -6,9 +6,12 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+Activity06.sln
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+.gitattributes
+.gitignore
+desktop.ini
 
 # Build results
 [Dd]ebug/
